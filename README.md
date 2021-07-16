@@ -1,7 +1,16 @@
 ### Hi there 👋  MistyMoon
 
-THU-Unitree-A1: [tsinghua-Unitree-ROS](https://github.com/MistyMoonR/tsinghua-Unitree-ROS)    
+[![Github-S]](https://github.com/MistyMoonR)
 
+[Github]:https://github.com/MistyMoonR "Github"
+
+[Github-S]: https://badgen.net/badge/haha/test/:color?icon=github
+
+ROS Unitree A1: [tsinghua-Unitree-ROS](https://github.com/MistyMoonR/tsinghua-Unitree-ROS)    
+
+SLAM: [tsinghua-SLAM](https://github.com/MistyMoonR/tsinghua-SLAM)
+
+AI: [COMP219-AI](https://github.com/MistyMoonR/COMP219-AI)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -26,3 +35,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[Github-S]: https://badgen.net/badge/Github/MistyMoon/:color?icon=github

@@ -1,10 +1,6 @@
 ### Hi there 👋  MistyMoon
 
-[![Github-S]](https://github.com/MistyMoonR)
-
-[Github]:https://github.com/MistyMoonR "Github"
-
-[Github-S]: https://badgen.net/badge/haha/test/:color?icon=github
+[![Github-S]][Github] [![zhihu-S]][zhihu]
 
 ROS Unitree A1: [tsinghua-Unitree-ROS](https://github.com/MistyMoonR/tsinghua-Unitree-ROS)    
 
@@ -36,4 +32,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[Github]:https://github.com/MistyMoonR "Github"
+
 [Github-S]: https://badgen.net/badge/Github/MistyMoon/:color?icon=github
+
+[zhihu]:https://www.zhihu.com/people/mistymoon-64 "zhihu"
+
+[zhihu-S]: https://badgen.net/badge/%E7%9F%A5%E4%B9%8E/Mistymoon/blue

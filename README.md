@@ -1,21 +1,20 @@
 ### Hi there 👋  MistyMoon
 
-[![Github-S]][Github] [![zhihu-S]][zhihu]
+[![Github-S]][Github]
 
-ROS Unitree A1: [tsinghua-Unitree-ROS](https://github.com/MistyMoonR/tsinghua-Unitree-ROS)    
+| Author | MistyMoon              |
+| ------ | ---------------------- |
+| E-mail | MistyMoonR@outlook.com |
+| 知乎   | [![zhihu-S]][zhihu]    |
 
-SLAM: [tsinghua-SLAM](https://github.com/MistyMoonR/tsinghua-SLAM)
+-----------------------
 
-AI: [COMP219-AI](https://github.com/MistyMoonR/COMP219-AI)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+| Project |                                    Link                                    | Progress |
+| :------ | :------------------------------------------------------------------------: | :------: |
+| ROS     | [tsinghua-Unitree-ROS](https://github.com/MistyMoonR/tsinghua-Unitree-ROS) | Continue |
+| SLAM    |        [tsinghua-SLAM](https://github.com/MistyMoonR/tsinghua-SLAM)        | Continue |
+| AI      |           [COMP219-AI](https://github.com/MistyMoonR/COMP219-AI)           |  Finish  |
+| Game    |   [COMP222-GameDesign](https://github.com/MistyMoonR/COMP222-GameDesign)   |  Finish  |
 
 <!--
 **MistyMoonR/MistyMoonR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

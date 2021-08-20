@@ -1,4 +1,4 @@
-### Hi there 👋  MistyMoon
+## MistyMoon-README
 
 [![Github-S]][Github]
 
@@ -11,8 +11,8 @@
 
 | Project |                                    Link                                    | Progress |
 | :------ | :------------------------------------------------------------------------: | :------: |
-| ROS     | [tsinghua-Unitree-ROS](https://github.com/MistyMoonR/tsinghua-Unitree-ROS) | Continue |
-| SLAM    |        [tsinghua-SLAM](https://github.com/MistyMoonR/tsinghua-SLAM)        | Continue |
+| ROS     | [tsinghua-Unitree-ROS](https://github.com/MistyMoonR/tsinghua-Unitree-ROS) | Finish |
+| SLAM    |        [tsinghua-SLAM](https://github.com/MistyMoonR/tsinghua-SLAM)        | Finish |
 | AI      |           [COMP219-AI](https://github.com/MistyMoonR/COMP219-AI)           |  Finish  |
 | Game    |   [COMP222-GameDesign](https://github.com/MistyMoonR/COMP222-GameDesign)   |  Finish  |
 

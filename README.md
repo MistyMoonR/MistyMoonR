@@ -5,7 +5,6 @@
 | Author | MistyMoon              |
 | ------ | ---------------------- |
 | E-mail | MistyMoonR@outlook.com |
-| 知乎   | [![zhihu-S]][zhihu]    |
 
 -----------------------
 
@@ -20,6 +19,10 @@
 -----------------------
 Oraganization:      
 [KCORES](https://github.com/KCORES)
+
+Metrics:  
+![Metrics](https://metrics.lecoq.io/mistymoonr?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai)
+
 
 
 [Github]:https://github.com/MistyMoonR "Github"
